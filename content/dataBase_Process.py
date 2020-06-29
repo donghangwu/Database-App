@@ -2,7 +2,7 @@ from tkinter import*
 from PIL import ImageTk,Image
 import sqlite3
 from Gui import*
-from PIL import ImageTk, Image
+
 
 
 
